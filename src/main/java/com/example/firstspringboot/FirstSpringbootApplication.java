@@ -15,6 +15,6 @@ public class FirstSpringbootApplication {
 
     @RequestMapping
     public String hello() {
-        return "hello firstboot project";
+        return "hello second-spring-boot pro";
     }
 }
